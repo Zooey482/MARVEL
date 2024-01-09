@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "react-marvel-e966d"
+    "site": "react-marvel-e966d",
     "public": "build",
     "ignore": [
       "firebase.json",
