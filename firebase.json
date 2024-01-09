@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "react-marvel-e966d",
+    "site": "zoo-marvel-comics",
     "public": "build",
     "ignore": [
       "firebase.json",
